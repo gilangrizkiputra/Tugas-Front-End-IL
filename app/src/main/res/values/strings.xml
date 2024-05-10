@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_food">Food</string>
+    <string name="menu_About">About</string>
+    <string name="menu_detail">Detail</string>
+    <string name="app_share">list Application</string>
+    <string name="share_message">Ayo share Rumah Adat, Alat Musik dan makanan Indonesia!!</string>
+
+    <!--deskripsi musik tradisional-->
+    <string name="desk_angklung">Angklung adalah alat musik tradisional dari bambu yang dimainkan dengan teknik kurulung yaitu menggoyangkan angklung dengan salah satu tangan agar menghasilkan suara.</string>
+    <string name="desk_aramba">Aramba mempunyai bentuk bulat seperti alat musik gong. Bedanya, bentuk aramba ini lebih kecil. Cara memainkannya juga sama dengan gong, yaitu dipukul dengan alat khusus supaya berbunyi.</string>
+    <string name="desk_bonang">Bonang merupakan alat musik pukul yang terbuat dari kuningan. Bonang termasuk bagian dari peralatan gamelan dan biasanya digunakan secara bersamaan dengan saron dan gong untuk memainkan suatu tembang.</string>
+    <string name="desk_doli_doli">Doli-doli adalah alat musik tradisional dari daerah Nias, Sumatra Utara yang terbuat dari kayu dan disusun sejajar. Doli-doli dimainkan dengan cara dipukul memakai alat pukul kayu.</string>
+    <string name="desk_gong">Gong termasuk alat musik pukul khas Jawa Barat. Gong dapat dijumpai pada rangkaian alat musik gamelan dan bentuknya bulat besar.</string>
+    <string name="desk_gendang">Sama dengan gong, gendang juga menjadi elemen musik pendukung pada gamelan. Terbuat kayu dan kulit, cara memainkan gendang ini dipukul dengan tangan.</string>
+    <string name="desk_kecapi">Kecapi merupakan alat musik petik tradisional yang terbuat dari kayu, berbentuk kotak persegi panjang dan dilengkapi senar atau dawai untuk menghasilkan bunyi.</string>
+    <string name="desk_kolintang">Kolintang adalah alat musik pukul tradisional asal Minahasa, Sulawesi Utara yang terbuat dari kayu. Cara memainkan kolintang ini dipukul dengan mallet agar suara yang dihasilkannya merdu.</string>
+    <string name="desk_rebab">Rebab merupakan alat musik gesek tradisional dari kayu yang sering digunakan untuk mengiringi wayang golek hingga tarian jaipong. Selain di Jawa Barat, rebab juga ada di Betawi hingga Bali.</string>
+    <string name="desk_sape">Sape atau sapeh termasuk alat musik petik tradisional yang bentuknya mirip gitar. Sape ini sering digunakan sebagai alat musik pengiring dalam acara adat Suku Dayak.</string>
+
+    <!--deskripsi rumah adat-->
+    <string name="desk_krong_bade">Krong Bade merupakan rumah adat yang berasal dari Aceh yang dilengkapi dengan tangga yang berjumlah ganjil. Tangga pada rumah adat satu ini berjumlah tujuh sampai sembilan anak tangga. Bentuk rumahnya pun unik, memanjang dari timur ke barat menyerupai persegi panjang.</string>
+    <string name="desk_bolon">Rumah Bolon atau disebut juga Rumah Tradisional Batak Toba berasal dari Sumatera Utara. Rumah ini dapat dihuni oleh 5 sampai 6 keluarga dan saat memasuki Rumah Bolon, kamu harus menaiki tangga di bagian tengah rumah yang memiliki anak tangga berjumlah ganjil.</string>
+    <string name="desk_gadang">Rumah Gadang merupakan Rumah Adat yang berasal dari Sumatera Barat. Rumah ini dicirikan dari bentuknya yang khas dan indah serta atap yang melengkung seperti tanduk kerbau dinamakan gonjong sehingga Rumah Gadang juga dikenal sebagai Rumah Bagonjong. Pada bagian tengah rumah ini sangat menyerupai badan kapal.</string>
+    <string name="desk_selaso_jatuh_kembar">Rumah Selaso Jatuh Kembar merupakan salah satu Rumah Adat yang terdapat di Provinsi Riau dan dijadikan sebagai Rumah Adat resmi Provinsi Riau. Rumah Selaso Jatuh Kembar sendiri berbentuk panggung dan persegi panjang. Di puncak atasnya, selalu ada hiasan kayu yang mencuat ke atas dalam bentuk bersilang yang disebut Tunjuk Langit.</string>
+    <string name="desk_panggung_kajang_leko">Rumah Adat Panggung Kajang Leko merupakan Rumah adat yang berasal dari Jambi. Rumah Kajang Leko ditetapkan sebagai rumah adat Jambi pada tahun 1970-an, penetapan ini bermula dari sayembara rumah adat sebagai identitas Provinsi Jambi yang dilakukan oleh Gubernur Jambi pada saat itu.</string>
+    <string name="desk_limas">Rumah Limas merupakan rumah adat yang berasal dari Provinsi Sumatera Selatan. Bentuk Rumah Limas sendiri dibangun dengan gaya rumah panggung dengan ukuran minimal 15 x 30 m atau 20 x 60 m.</string>
+    <string name="desk_sulah_nyanda">Rumah Sulah Nyanda merupakan Rumah Adat Provinsi Banten yang terletak di dalam pegunungan dan dihuni oleh Suku Baduy. Pembuatan Rumah Sulah Nyanda dilakukan secara gotong royong menggunakan kayu, bambu, ijuk, rotan, dan rumbia serta pada bagian dasar pondasinya menggunakan batu kali atau umpak sebagai landasannya.</string>
+    <string name="desk_honai">Rumah Honai merupakan Rumah Adat yang berasal dari Provinsi Papua, tepatnya adalah Rumah Adat milik Suku Dani. Honai sendiri berasal dari kata “Husn” yang memiliki arti laki-laki, dan “Ai” yang memiliki arti rumah.</string>
+    <string name="desk_tongkonan">Rumah Tongkonan merupakan Rumah Adat yang berasal dari Provinsi Sulawesi, khususnya Sulawesi Barat dan Sulawesi Selatan. Rumah Tongkonan memiliki bentuk yang sama dengan rumah adat pada umumnya yaitu berbentuk rumah panggung tetapi Rumah Tongkonan memiliki bentuk yang menyerupai perahu terbalik pada bagian atasnya.</string>
+    <string name="desk_kebaya">Rumah Kebaya merupakan Rumah Adat yang berasal dari Betawi. Nama Rumah Kebaya sendiri berasal dari bentuk atap rumahnya yang dari samping terlihat seperti lipatan kebaya.</string>
+
+    <!-- Deskripsi makanan tradisional -->
+    <string name="desk_mi_aceh">Mi Aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi ini disajikan dengan menggunakan mi kuning tebal dengan irisan daging sapi, daging kambing atau seafood, seperti udang dan cumi.</string>
+    <string name="desk_bika_ambon">Bika ambon adalah penganan khas Medan, Sumatera Utara, Indonesia. Camilan ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan.</string>
+    <string name="desk_rendang">Bika ambon adalah penganan khas Medan, Sumatera Utara, Indonesia. Camilan ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan.</string>
+    <string name="desk_pendap">Pendap, atau biasa juga disebut ikan pais, merupakan salah satu makanan Indonesia dari Provinsi Bengkulu. Pendap memiliki cita rasa pedas dan gurih, serta aroma khas daun talas yang menjadi pembungkusnya.</string>
+    <string name="desk_gulai_belacan">Gulai belacan merupakan makanan tradisional Riau. Ini berbahan dasar udang yang dipadukan dengan berbagai macam rempah-rempah pilihan dan dikombinasikan dengan belacan atau terasi.</string>
+    <string name="desk_pempek">Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan digiling lembut dan dicampur tepung kanji atau tepung sagu.</string>
+    <string name="desk_mi_bangka">Mi Bangka, atau dikenal sebagai bakmi Bangka adalah salah satu hidangan tradisional masyarakat pulau Bangka. Mi bagi masyarakat Bangka dikenal dengan sebutan mien dan mian, yang merupakan pengaruh dari kuliner orang Hakka.</string>
+    <string name="desk_seriut">Seruit adalah makanan tradisional Lampung, yaitu olahan ikan yang digoreng atau dibakar.</string>
+    <string name="desk_sate_bandeng">Sate bandeng merupakan makanan khas dari Provinsi Banten, tepatnya dari Serang. Sate Bandeng dibuat dari ikan bandeng yang dihilangkan durinya, lalu dagingnya dihaluskan dicampur dengan bumbu, dan dimasukkan kembali ke dalam kulit ikan bandeng.</string>
+    <string name="desk_kerak_telor">Kerak telor adalah makanan tradisional asli daerah Jakarta (Betawi), yang terbuat dari bahan-bahan beras ketan putih, telur ayam atau bebek.</string>
+
+
+</resources>
